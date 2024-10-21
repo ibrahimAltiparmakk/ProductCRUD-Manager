@@ -1,0 +1,14 @@
+C:\Users\sarib\OneDrive\Masaüstü\Yazgem\yazgem\yazgem\bin\Debug\yazgem.exe.config
+C:\Users\sarib\OneDrive\Masaüstü\Yazgem\yazgem\yazgem\bin\Debug\yazgem.exe
+C:\Users\sarib\OneDrive\Masaüstü\Yazgem\yazgem\yazgem\bin\Debug\yazgem.pdb
+C:\Users\sarib\OneDrive\Masaüstü\Yazgem\yazgem\yazgem\obj\Debug\yazgem.csproj.AssemblyReference.cache
+C:\Users\sarib\OneDrive\Masaüstü\Yazgem\yazgem\yazgem\obj\Debug\yazgem.Form1.resources
+C:\Users\sarib\OneDrive\Masaüstü\Yazgem\yazgem\yazgem\obj\Debug\yazgem.Properties.Resources.resources
+C:\Users\sarib\OneDrive\Masaüstü\Yazgem\yazgem\yazgem\obj\Debug\yazgem.csproj.GenerateResource.cache
+C:\Users\sarib\OneDrive\Masaüstü\Yazgem\yazgem\yazgem\obj\Debug\yazgem.csproj.CoreCompileInputs.cache
+C:\Users\sarib\OneDrive\Masaüstü\Yazgem\yazgem\yazgem\obj\Debug\yazgem.exe
+C:\Users\sarib\OneDrive\Masaüstü\Yazgem\yazgem\yazgem\obj\Debug\yazgem.pdb
+C:\Users\sarib\OneDrive\Masaüstü\Yazgem\yazgem\yazgem\obj\Debug\yazgem.Form2.resources
+C:\Users\sarib\OneDrive\Masaüstü\Yazgem\yazgem\yazgem\bin\Debug\System.Data.SqlClient.dll
+C:\Users\sarib\OneDrive\Masaüstü\Yazgem\yazgem\yazgem\bin\Debug\System.Data.SqlClient.xml
+C:\Users\sarib\OneDrive\Masaüstü\Yazgem\yazgem\yazgem\obj\Debug\yazgem.csproj.Up2Date

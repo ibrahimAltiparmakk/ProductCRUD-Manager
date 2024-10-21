@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<products>
+  <product>
+    <id>XYJ12345</id>
+    <name>Product Oneeee</name>
+    <description>This is the description for product one.</description>
+    <price>5555</price>
+    <price2>11111</price2>
+  </product>
+  <product>
+    <id>XYJ234</id>
+    <name>Product Twooo</name>
+    <description>This is the description for product two.</description>
+    <price>55</price>
+    <price2>0</price2>
+  </product>
+  <product>
+    <id>XYJ789</id>
+    <name>Product Fourrrrr</name>
+    <description>This is the description for product four.</description>
+    <price>45</price>
+    <price2>4</price2>
+  </product>
+  <product>
+    <id>XYH123</id>
+    <name>Product Fivvvv</name>
+    <description>This is the description for product five.</description>
+    <price>4545454</price>
+    <price2>5</price2>
+  </product>
+  <product>
+    <id>1</id>
+    <name>1</name>
+    <description>1</description>
+    <price>1</price>
+    <price2>1</price2>
+  </product>
+  <product>
+    <id>2</id>
+    <name>2</name>
+    <description>2</description>
+    <price>2</price>
+    <price2>2</price2>
+  </product>
+  <product>
+    <id>5</id>
+    <name>5</name>
+    <description>5</description>
+    <price>5</price>
+    <price2>5</price2>
+  </product>
+  <product>
+    <id>7</id>
+    <name>7</name>
+    <description>7</description>
+    <price>7</price>
+    <price2>7</price2>
+  </product>
+  <product>
+    <id>8</id>
+    <name>8</name>
+    <description>8</description>
+    <price>8</price>
+    <price2>8</price2>
+  </product>
+  <product>
+    <id>9</id>
+    <name>9</name>
+    <description>9</description>
+    <price>9</price>
+    <price2>9</price2>
+  </product>
+  <product>
+    <id></id>
+    <name>ibo</name>
+    <description>ibo</description>
+    <price>12</price>
+    <price2>2</price2>
+  </product>
+  <product>
+    <id></id>
+    <name>çağla</name>
+    <description>çağla</description>
+    <price>12</price>
+    <price2>15</price2>
+  </product>
+  <product>
+    <id></id>
+    <name>ibb</name>
+    <description>ibbbb</description>
+    <price>12333</price>
+    <price2>22121</price2>
+  </product>
+  <product>
+    <id></id>
+    <name></name>
+    <description></description>
+    <price></price>
+    <price2></price2>
+  </product>
+  <product>
+    <id></id>
+    <name>şerafettin </name>
+    <description>orhan</description>
+    <price>123</price>
+    <price2>12344</price2>
+  </product>
+  <product>
+    <id></id>
+    <name>e</name>
+    <description>e</description>
+    <price>1</price>
+    <price2>2</price2>
+  </product>
+</products>
